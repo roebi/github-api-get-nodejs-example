@@ -6,6 +6,6 @@
     "example": "node index.js"
   },
   "dependencies": {
-    "github-api-get": "^0.3.6"
+    "github-api-get": "^0.3.7"
   }
 }
