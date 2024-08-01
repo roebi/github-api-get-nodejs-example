@@ -4,6 +4,7 @@
 
 in the console just run
 
+    npm install
     npm run example
     // this run 'node index.js'
 
@@ -12,10 +13,28 @@ output is:
     > github-api-get-node-example@0.1.0 example
     > node index.js
 
+    githubApiGetProject
+      githubApi.ts githubApiGetProject(): loginName: roebi
+      githubApi.ts githubApiGetProject(): projectName: 01-01-vanilla-HTML5-starter-page
+    realGithubTopics, call of githubApiGetProject with constant GITHUB_PROJECT_TOPICS
+      realGithubTopics
+      [
+        'css3',
+        'html5',
+        'html5-template',
+        'roebi',
+        'starter',
+        'template',
+        'template-project'
+      ]
+
     getGithubTopics
       githubApi.ts: loginName: roebi
       githubApi.ts: projectName: 01-01-vanilla-HTML5-starter-page
-    realGithubTopics
+    githubApiGetProject
+      githubApi.ts githubApiGetProject(): loginName: roebi
+      githubApi.ts githubApiGetProject(): projectName: 01-01-vanilla-HTML5-starter-page
+    realGithubTopics, deprecated call getGithubTopics
       realGithubTopics
       [
         'css3',
