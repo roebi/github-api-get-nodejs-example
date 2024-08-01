@@ -1,5 +1,7 @@
 # github-api-get-nodejs-example
 
+this is a demo of usage of https://github.com/roebi/github-api-get
+
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-api-get-nodejs)
 
 in the console just run
