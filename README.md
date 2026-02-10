@@ -12,7 +12,7 @@ in the console just run
 
 output is:
 
-    > github-api-get-node-example@0.1.0 example
+    > github-api-get-node-example@n.n.n example
     > node index.js
 
     githubApiGetProject
